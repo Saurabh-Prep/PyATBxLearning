@@ -10,3 +10,12 @@ print(type(_123))
 print(type(pi))
 print(type(istrue))
 
+#complex data type
+comp = 2+3j
+print(comp)
+print(comp.imag)
+print(comp.real)
+print(type(comp))
+
+
+
